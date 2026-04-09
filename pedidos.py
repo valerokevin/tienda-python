@@ -1,4 +1,3 @@
-
 pedido_actual = []
 
 def agregar_producto(productos, id_producto, cantidad):
